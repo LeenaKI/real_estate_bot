@@ -1,0 +1,11 @@
+    #pip install -r requirements.txt
+
+pdfplumber
+transformers 
+huggingface_hub
+spacy
+python-docx
+streamlit
+predibase
+groq
+
